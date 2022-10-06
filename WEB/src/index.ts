@@ -11,7 +11,6 @@ const users = new Collection(
 
 console.log(users);
 
-
 users.on("change", () => {
   const root = document.getElementById("root");
 

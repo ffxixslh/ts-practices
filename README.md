@@ -1,6 +1,6 @@
 # TypeScript Concepts
 
-## 基本类型
+## Basic Concepts
 
 ```ts
 // primitives: string number boolean

@@ -1,2 +1,5 @@
 sort/node_modules
 stats/node_modules
+WEB/node_modules
+WEB/.parcel-cache
+WEB/dist
